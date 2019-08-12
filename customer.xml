@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <address>xyz</address>
+        <id>ABC12</id>
+        <name>Himanshu</name>
+        <phone>9582882013</phone>
+    </customer>
+    <customer>
+        <address>xyz</address>
+        <id>ABC13</id>
+        <name>Himan</name>
+        <phone>9582882013</phone>
+    </customer>
+</customers>
